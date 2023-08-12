@@ -4,7 +4,7 @@ Machine Learning Project analysis on Super Market data
 #### I am a recently Graduated in Data Science stream
 I am a recently graduate looking for an entry level job in Data Science stream. I have done a pilot project on Super Market Dataset using Linear regression model in Machine Learning by using python packages:  scikit-learn / model_selection library / Numpy / Linear Regression Algorithm / matplotlib / Pyplot library / seaborn / accuracy_score library / scatter plots / distplots. I have used Jupyter Notebook for programming interface and selected dataset from kaggle.
 
-Skills:  I have a good programming knowledge on python, java, basics of C, HTML, CSS, SQL. Technologies: Hadoop.
+Skills:  I have a good programming knowledge on python, java, basics of C, HTML, CSS, SQL. Technologies: Hadoop,Bigdata
 
 - 🔭 I’m currently working on Searching for an entry level job 
 - 🌱 I’m currently learning Data Science 
