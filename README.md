@@ -11,7 +11,7 @@ Skills: Python / scikit-learn / model_selection library / Numpy / Linear Regress
 - 📫 How to reach me: anguluriswathi319@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Swathi182)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/swathi-anguluri-8b0503251/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Swathi182)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/swathi-anguluri-8b0503251/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Swathi182&show_icons=true)  
 
