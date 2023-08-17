@@ -26,7 +26,9 @@ Install missing dependencies using [pip](https://pip.pypa.io/en/stable/)
 Install the dataset using [kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
 ## Usage
+Run the commands using python programming language
 
+Install python [here](https://www.python.org/downloads/)
 
 Run the jupyter notebook by typing `jupyter notebook` in terminal
 
